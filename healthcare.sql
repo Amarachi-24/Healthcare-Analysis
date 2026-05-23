@@ -1,4 +1,4 @@
--- 2. Count of Patients by Medical Condition + Avg Billing Amount--
+-- Count of Patients by Medical Condition + Avg Billing Amount--
 SELECT
     `Medical Condition`,
     COUNT(Name) AS patient_count,
@@ -7,7 +7,7 @@ FROM healthcare_dataset
 GROUP BY `Medical Condition`
 ORDER BY patient_count DESC;
 
--- 3. Number of Patients Admitted Month‑over‑Month--
+-- Number of Patients Admitted Month‑over‑Month--
 SELECT
     DATE_FORMAT(`Date of Admission`, '%Y-%m-01') AS month,
     COUNT(Name) AS patient_count
