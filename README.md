@@ -17,7 +17,7 @@ The Healthcare Data Analysis project explores hospital patient data using SQL fo
 
 
 # Preview
- ![Dashboard Screenshoot](<img width="717" height="182" alt="image" src="https://github.com/user-attachments/assets/5f7d90a4-9ab1-4b81-877f-788d60b7255f" />)
+[![Dashboard Screenshot](images/dashboard.png)](images/dashboard.png)
 
 
 https://github.com/Amarachi-24/Healthcare-Analysis/blob/main/HEALTHCARE.pdf
