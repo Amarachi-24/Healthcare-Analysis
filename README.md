@@ -9,7 +9,7 @@ This project analyzes hospital patient data using SQL and Power BI analysis of h
 # Project Overview
 The Healthcare Data Analysis project explores hospital patient data using SQL for extraction and Power BI for visualization to uncover insights into demographics, medical conditions, billing patterns, and admission trends. Using a structured dataset, I developed SQL queries to summarize key metrics such as gender distribution, condition prevalence, monthly admissions, medication usage, and admission types. These results were exported as CSV files and integrated into a Power BI dashboard that transforms raw data into clear visuals, making trends easy to understand. 
 
-# What i Learned 
+# What I Learned 
 - How to extract and summarize healthcare data using SQL
 - How to model and clean data for analysis
 - How to build interactive dashboards in Power BI
