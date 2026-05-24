@@ -1,6 +1,7 @@
-# Healthcare-Analysis Project
+# Health-Analysis Project
 # SQL • Power BI • Data Visualization
 This project analyzes hospital patient data using SQL and Power BI analysis of hospital patient data, including admissions trends, medical conditions, billing insights, and gender distribution.
+
 # Tools Used
 - Microsoft Excel
 - MySQL
